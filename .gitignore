@@ -1,9 +1,0 @@
-*/obj/*
-*/bin/*
-/ContainerManagement/Container.Api/Container.Api/obj
-obj
-/ContainerManagement/Container.Api/.vs
-/ContainerManagement/Container.Api/Container.EF/obj
-/ContainerManagement/Container.Api/Container.EF/bin
-bin
-/ContainerManagement/Container.Api/Container.Api/.config
